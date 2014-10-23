@@ -27,3 +27,8 @@ install brew-file
 
 ## sanemat/font
 tap sanemat/font
+
+# Other Homebrew packages
+install gdbm
+install pcre
+install zsh
