@@ -31,6 +31,8 @@ tap sanemat/font
 # Other Homebrew packages
 install gdbm
 install git
+install lua
 install mercurial
 install pcre
+install vim --with-lua
 install zsh
