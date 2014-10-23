@@ -30,5 +30,6 @@ tap sanemat/font
 
 # Other Homebrew packages
 install gdbm
+install git
 install pcre
 install zsh
