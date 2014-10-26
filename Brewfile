@@ -20,6 +20,7 @@ install autoconf
 install automake
 install gdbm
 install git
+install libevent
 install libtool
 install lua
 install mercurial
@@ -31,5 +32,6 @@ install scons
 install sqlite
 install subversion
 install tig
+install tmux
 install vim --with-lua
 install zsh
