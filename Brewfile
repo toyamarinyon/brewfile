@@ -27,11 +27,13 @@ install mercurial
 install openssl
 install pcre
 install pkg-config
+install rbenv
 install readline
+install ruby-build
 install scons
 install sqlite
 install subversion
 install tig
 install tmux
-install vim --with-lua
+install vim --with-lua --with-lua
 install zsh
