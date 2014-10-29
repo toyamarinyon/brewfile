@@ -35,5 +35,5 @@ install sqlite
 install subversion
 install tig
 install tmux
-install vim --with-lua --with-lua
+install vim --with-lua
 install zsh
