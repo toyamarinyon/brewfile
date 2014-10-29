@@ -3,6 +3,10 @@
 ## homebrew/dupes
 tap homebrew/dupes
 
+## homebrew/php
+tap homebrew/php
+install php-build
+
 ## motemen/ghq
 tap motemen/ghq
 install ghq
@@ -36,4 +40,5 @@ install subversion
 install tig
 install tmux
 install vim --with-lua
+install wget
 install zsh
