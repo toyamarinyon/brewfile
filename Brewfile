@@ -6,6 +6,7 @@ tap homebrew/dupes
 ## homebrew/php
 tap homebrew/php
 install php-build
+install php-install
 
 ## motemen/ghq
 tap motemen/ghq
