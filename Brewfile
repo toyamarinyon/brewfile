@@ -34,6 +34,7 @@ install pcre
 install pkg-config
 install rbenv
 install readline
+install reattach-to-user-namespace
 install ruby-build
 install scons
 install sqlite
