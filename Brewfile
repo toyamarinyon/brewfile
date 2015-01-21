@@ -24,6 +24,7 @@ install brew-file
 install autoconf
 install automake
 install gdbm
+install gist
 install git
 install libevent
 install libtool
