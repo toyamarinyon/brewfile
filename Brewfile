@@ -23,11 +23,15 @@ install brew-file
 # Other Homebrew packages
 install autoconf
 install automake
+install ffmpeg
 install gdbm
+install gifsicle
 install gist
 install git
+install lame
 install libevent
 install libtool
+install libvo-aacenc
 install lua
 install mercurial
 install openssl
@@ -44,4 +48,6 @@ install tig
 install tmux
 install vim --with-lua
 install wget
+install x264
+install xvid
 install zsh
