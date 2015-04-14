@@ -41,6 +41,7 @@ install rbenv
 install readline
 install reattach-to-user-namespace
 install ruby-build
+install scala
 install scons
 install sqlite
 install subversion
