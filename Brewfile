@@ -34,6 +34,7 @@ install libtool
 install libvo-aacenc
 install lua
 install mercurial
+install mysql
 install openssl
 install pcre
 install pkg-config
@@ -47,7 +48,7 @@ install sqlite
 install subversion
 install tig
 install tmux
-install vim --with-lua
+install vim --with-lua --with-lua
 install wget
 install x264
 install xvid
