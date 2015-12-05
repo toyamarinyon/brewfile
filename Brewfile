@@ -1,5 +1,9 @@
 # tap repositories and their packages
 
+## caskroom/cask
+tap caskroom/cask
+install brew-cask
+
 ## homebrew/dupes
 tap homebrew/dupes
 
@@ -23,6 +27,7 @@ install brew-file
 # Other Homebrew packages
 install autoconf
 install automake
+install boost
 install ffmpeg
 install gdbm
 install gifsicle
@@ -53,3 +58,8 @@ install wget
 install x264
 install xvid
 install zsh
+
+# Below applications were installed by Cask,
+but not corresponding casks were found.
+
+#cask  install Warning: nothing to list
